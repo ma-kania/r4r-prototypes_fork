@@ -114,3 +114,9 @@ ENV/
 
 # IDE settings
 .vscode/
+
+# folder
+/prototypes/cache
+/prototypes/csvs
+/prototypes/osm
+/prototypes/csv_Bevoelkerung_100m_Gitter
