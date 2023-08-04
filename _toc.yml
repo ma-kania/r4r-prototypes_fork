@@ -3,7 +3,28 @@
 
 format: jb-book
 root: book/intro
-chapters:
-- file: book/markdown
-- file: book/notebooks
-- file: book/markdown-notebooks
+parts:
+  - caption: "Basics"
+    chapters:
+      - file: book/basics/basics
+        sections:
+          - file: book/basics/explenations/paper
+      - file: book/basics/folium/folium
+      - file: book/basics/osm/osm
+        sections:
+        - file: book/basics/osm/osmnx
+        - file: book/basics/osm/overpass
+        - file: book/basics/osm/overpy
+  - caption: "Prototypen"
+    chapters:
+      - file: book/prototypes/prototypes
+        # sections:
+      - file: prototypes/01-tags
+      - file: prototypes/02-speeds
+      - file: prototypes/03-traveltime
+      - file: prototypes/04-population
+      - file: prototypes/05
+      - file: prototypes/06-ohsome
+  - caption: "Anhang"
+    chapters:
+      - file: book/bib

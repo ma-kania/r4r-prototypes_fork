@@ -1,11 +1,10 @@
-# Welcome to your Jupyter Book
+# Willkommen zum R4R Prototypen Buch
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+In diesem Buch werden einige Analysen und Visualisierungen von Daten aus dem R4R Projekt vorgestellt. Hierbei handelt es sich mit unter um nicht fertige Prototypen. Benutzen Sie diese bitte mit der nötigen Vorsicht.
 
-Check out the content pages bundled with this sample book to see more.
+Um dieses Buch zu erstellen wurde [Jupyter Book](https://jupyterbook.org) verwendet.
+
+Inhalte des Buches:
 
 ```{tableofcontents}
 ```
