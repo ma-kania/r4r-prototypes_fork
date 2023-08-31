@@ -25,6 +25,9 @@ parts:
       - file: prototypes/04-population
       - file: prototypes/05
       - file: prototypes/06-ohsome
+      - file: prototypes/07-dominos
+      - file: prototypes/08-dominos
+      - file: prototypes/09-dominos-zusammenfassung
   - caption: "Anhang"
     chapters:
       - file: book/bib
